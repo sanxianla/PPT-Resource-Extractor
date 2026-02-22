@@ -2,7 +2,8 @@
 
 一款专为 Windows 打造的轻量、免安装的桌面小工具。可以一键**批量提取** PowerPoint 文稿（`.pptx`）中的所有无损媒体资源，并**自动分类**为图片、音频和视频文件夹。
 
-![UI Preview](https://via.placeholder.com/600x400?text=上传到GitHub后，把这里换成你的软件截图)
+<img width="466" height="345" alt="1" src="https://github.com/user-attachments/assets/e7262bd8-e1c4-4ac7-a163-f6674c1a1101" />
+
 
 ## ✨ 核心特性
 
