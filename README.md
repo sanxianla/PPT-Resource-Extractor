@@ -34,3 +34,14 @@
 ```bash
 git clone [https://github.com/sanxianla/PPT-Resource-Extractor.git](https://github.com/sanxianla/PPT-Resource-Extractor.git)
 cd PPT-Resource-Extractor
+2. 打包为 EXE
+确保已安装 pyinstaller，然后在代码所在目录运行最基础的打包命令即可：
+pip install pyinstaller
+pyinstaller --noconsole --onefile ppt_extractor.py
+(注：如果您有自定义图标 app_icon.ico，可以使用命令 pyinstaller --noconsole --onefile --icon=app_icon.ico ppt_extractor.py)
+👨‍💻 关于作者
+Author: 散仙
+
+GitHub: https://github.com/sanxianla
+
+如果这个小工具帮到了你，欢迎给这个项目点一个 ⭐️ Star！
